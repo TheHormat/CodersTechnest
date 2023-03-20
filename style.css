@@ -466,41 +466,41 @@ footer ul {
 
 
 .head__analtika {
-  background-image: url("../CODERSTECH/images/analytic.png");
+  background-image: url("../images/analytic.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   object-fit: cover;
   height: 523px;
 }
 
 .head__front {
-  background-image: url("../CODERSTECH/images/front.png");
+  background-image: url("../images/front.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   object-fit: cover;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   height: 523px;
 }
 
 .head__data {
-  background-image: url("../CODERSTECH/images/data.png");
+  background-image: url("../images/data.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   object-fit: cover;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   height: 523px;
 }
 
 .head__java {
-  background-image: url("../CODERSTECH/images/java.png");
+  background-image: url("../images/java.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   object-fit: cover;
   height: 523px;
 }

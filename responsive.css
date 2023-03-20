@@ -86,6 +86,11 @@
 
 @media screen and (max-width: 992px) {
 
+  .apply__rules__inner .btn {
+    text-align: center;
+    width: 500px;
+  }
+
   .btn {
     width: 300px;
     height: 60px;
@@ -106,7 +111,7 @@
   .hero__inner img {
     width: 95%;
     height: auto;
-    margin: 10px auto;
+    margin: 0px auto;
     text-align: center;
   }
 
@@ -266,8 +271,12 @@
 
   }
 
-  .faq ul {
-    grid-template-columns: repeat(1, 1fr);
+  .faq ul li h3 {
+    font-size: 20px;
+  }
+  
+  .faq ul li p {
+    font-size: 15px;
   }
 
   .footer__inner {
@@ -288,6 +297,12 @@
 @media screen and (max-width: 550px) {
   .hero__text h1 {
     font-size: 34px;
+  }
+
+  
+  .apply__rules__inner .btn {
+    text-align: center;
+    width: 300px;
   }
 }
 
